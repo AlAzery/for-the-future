@@ -2,9 +2,9 @@ Bismillahirrahmanirrahim.
   
   List aktifitas
   ~Membuat landing page
-		-Dengan html
-		-Dengan css
-		-Dengan javascript
+		~Dengan html
+		~Dengan tailwindcss
+		~Dengan nodejs
   ~Membuat Hero section
   ~Membuat Halaman Service
-	~Membuat Footer
+	~Membuat Navbar
